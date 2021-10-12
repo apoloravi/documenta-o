@@ -1,4 +1,4 @@
-https://lh3.googleusercontent.com/pw/AM-JKLUmYcVTvZ6AUbcFJJVyvzJjlZLlGu-SvPFH2XtuvP-Tr-d2MyNerJ71kXMnt78xPLL6VTfPD41ObJ5ggFlhIP8cH_b5ct1gLDmhxfRthrg5oWjKPBQ9Wyy2gf0WU0U_kkE_emfsMKuHbfwkqFSbUX3c3Q=w230-h120-no?authuser=0
+
 ## Bem-vindo a área de conhecimento da Marra Cloud
 
 Você pode usar o nosso portal de apoio para tirar duvidas e assitir tutoriais

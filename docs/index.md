@@ -1,7 +1,6 @@
-## Bem-vindo a área de con conhecimento da Marra Cloud
+## Bem-vindo a área de conhecimento da Marra Cloud
 
-Você pode usar o [editor on GitHub](https://github.com/apoloravi/documentacao/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
+Você pode usar o nosso portal de apoio para tirar duvidas e assitir tutoriais
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown

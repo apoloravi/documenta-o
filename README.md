@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/slatedocs/img/main/logo-slate.png" alt="Slate: API Documentation Generator" width="226">
+  <img src="https://lh3.googleusercontent.com/pw/AM-JKLUoF9lSyUJIGKShMPkKrN3q8uTlQx9HTUGQDv0XfPdVl5n-7D2EaJaMLKRo0xRYGYkio-rwJ9n-3tOJ_8n0n1Ad2aAaFJRHRqb_eNFR6HBJ_j8rxKzf9AA4H-pL5ja2XcH9WUCEctQNS4ig2lAiKscFpQ=w452-h264-no?authuser=0" alt="Slate: API Documentation Generator" width="226">
   <br>
   <a href="https://github.com/slatedocs/slate/actions?query=workflow%3ABuild+branch%3Amain"><img src="https://github.com/slatedocs/slate/workflows/Build/badge.svg?branch=main" alt="Build Status"></a>
   <a href="https://hub.docker.com/r/slatedocs/slate"><img src="https://img.shields.io/docker/v/slatedocs/slate?sort=semver" alt="Docker Version" /></a>
